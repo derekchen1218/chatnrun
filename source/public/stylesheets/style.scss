@@ -1,0 +1,52 @@
+@import "compass/css3";
+.container {
+  text-align: center;
+}
+
+.title {
+  color: #003399;
+  font-size: 80px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.nickname {
+  color: #000;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.picktags {
+  color: #003399;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.arrow {
+  width: 5%;
+  text-align: center;
+}
+
+.search {
+  width: 30px;
+  float: right;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.margin {
+  margin-left: 100px;
+}
+
+.hi {
+  position: fixed;
+  bottom: 100px;
+}
